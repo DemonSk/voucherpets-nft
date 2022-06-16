@@ -1,0 +1,21 @@
+{
+  "description": "VoucherPets for discount",
+  "external_url": "https://mycafe.io",
+  "image": "https://ipfs.filebase.io/ipfs/QmfYVgZgvngYqqxEF28S4s5Kv2fRpdWRcbZYkvq9sfmJPj",
+  "name": "Voucher #1",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Immortal"
+    },
+    {
+      "trait_type": "Categories discount",
+      "value": "All"
+    },
+    {
+      "display_type": "discount_number",
+      "trait_type": "Discount",
+      "value": 50
+    }
+  ]
+}
